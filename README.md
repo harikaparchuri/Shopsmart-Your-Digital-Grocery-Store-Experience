@@ -122,17 +122,11 @@ We welcome contributions! Please fork the repo and submit a pull request for any
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 💬 Contact
 
 For support or inquiries, please contact:  
-📧 yourname@example.com  
-🌐 [LinkedIn](https://linkedin.com/in/your-profile)
+📧 ambikajyothidevanae@example.com  
+🌐 [LinkedIn](https://linkedin.com/in/ambikajyothidevana/)
 
 ---
 
