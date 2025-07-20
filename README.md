@@ -121,13 +121,4 @@ You can deploy ShopSmart using:
 We welcome contributions! Please fork the repo and submit a pull request for any improvements or bug fixes.
 
 ---
-
-## 💬 Contact
-
-For support or inquiries, please contact:  
-📧 ambikajyothidevana@gmail.com  
-🌐 [LinkedIn](https://linkedin.com/in/ambikajyothidevana/)
-
----
-
 **ShopSmart** revolutionizes how you buy groceries — making the process efficient, enjoyable, and stress-free!
