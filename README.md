@@ -125,7 +125,7 @@ We welcome contributions! Please fork the repo and submit a pull request for any
 ## 💬 Contact
 
 For support or inquiries, please contact:  
-📧 ambikajyothidevanae@example.com  
+📧 ambikajyothidevana@gmail.com  
 🌐 [LinkedIn](https://linkedin.com/in/ambikajyothidevana/)
 
 ---
